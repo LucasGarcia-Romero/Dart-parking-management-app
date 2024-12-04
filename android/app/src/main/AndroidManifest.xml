@@ -32,7 +32,8 @@
             android:name="flutterEmbedding"
             android:value="2" />
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyB3_EGIva5ikGyFKcr6k0MX0U_82oo5hIE"/>
+            android:value="password"/>
+            <!--the password have been deleted due to security reassons-->
     </application>
     <!-- Required to query activities that can process text, see:
          https://developer.android.com/training/package-visibility?hl=en and
